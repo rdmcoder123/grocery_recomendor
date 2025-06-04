@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+rdm/
+ENV/
+env/
+.venv/
+.ENV/
+.venv.bak/
+
+# Flask cache and instance folders
+instance/
+*.pyc
+*.pyo
+
+# VS Code / PyCharm settings
+.vscode/
+.idea/
+
+# macOS files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Environment variables file
+.env
+
+# Compiled C files
+*.so
+
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+
+# Pip and package files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# mypy
+.mypy_cache/
+
+# pyre type checker
+.pyre/
+
+# pytype
+.pytype/
+
+# wheel
+*.whl
+
+# dist and build folders
+build/
+dist/
+*.egg-info/
+
+# Database files (optional)
+*.sqlite3
+*.db

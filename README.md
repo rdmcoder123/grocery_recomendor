@@ -29,7 +29,7 @@ Virtual environment (optional but recommended)
 Clone the repository:
 
 
-git clone https://github.com/varshat/Grocery-Recommendation-System.git
+git clone https://github.com/rdmcoder123/grocery_recomendor.git
 cd Grocery-Recommendation-System
 \n
 Create and activate a virtual environment:
